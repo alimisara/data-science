@@ -15,7 +15,3 @@ Bienvenue sur la vitrine de mes projets réalisés en data science ou statistiqu
 | [Coupe d'Afrique 2025](https://github.com/alimisara/cansd) | Nos modèles concernant la coupe d'Afrique des Nations 2025 en Data Science |
 
 ---
-
-## 🤝 Nous contacter
-
-📧 alltechsociety@gmail.com  
